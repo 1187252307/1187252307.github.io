@@ -1,17 +1,8 @@
-## 李珊珊（2004010114）
-
-姓别：女                                       出生年月：2002年7月3日
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## 李珊珊
+###个人简介
+# 性别：女
+## 出生日期：2002年7月3日
+### 籍贯：中国湖南省益阳市
 
 - Bulleted
 - List
