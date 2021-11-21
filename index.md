@@ -20,35 +20,16 @@
 英语四级
 
 ## 兴趣爱好
-排球、
+排球、羽毛球、足球、铅球、音乐
 
 ## 教育背景
 就读于湖南工商大学，目前处于大二阶段。
 
 ## 主修课程
-初级会计
+初级会计学、中级财务会计学、高级财务会计学
 
 ## 获奖详情
+曾获第四届企业价值创造大赛校内赛三等奖
 
-##
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1187252307/1187252307.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 自我评价
+活泼开朗、乐观向上、兴趣广泛；适应力、感悟力强、能很快融入团队；认真负责，坚毅不拔，吃苦耐劳，喜欢和勇于迎接新挑战。
